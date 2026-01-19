@@ -6,3 +6,5 @@ else:
     print (bil,"adalah GANJIL")
 
 print("program ini saya buat melalui codespace")
+
+print("program ini adalah perubahan kode pertama")
